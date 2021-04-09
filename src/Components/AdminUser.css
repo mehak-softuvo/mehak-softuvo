@@ -1,0 +1,24 @@
+.btn-new{
+    background: #1890ff;
+    color: #fff;
+    border-radius: 50%;
+    margin: 10px;
+    height: 35px;
+    width: 35px;
+    padding: 0;
+    border-color: #1890ff;
+  }
+
+.table-alignment{
+    display: flex;
+    margin: 10px;
+}
+.add-user-button {
+    background-color: #1890ff;
+    color: #fff;
+    height:30px;
+    width:80px;
+    padding: 0;
+    border-color: #1890ff;
+    margin-top: 50px;
+}

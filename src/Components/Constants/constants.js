@@ -1,0 +1,7 @@
+export const POP_UP_MODAL_CONSTANTS = {
+    ADD_ADMIN_USER: 'ADD_ADMIN_USER'
+}
+export const POP_UP_MODAL_HEADER_CONSTANTS = {
+    ADD_USER: 'ADD_USER',
+    EDIT_USER: 'EDIT_USER'
+}

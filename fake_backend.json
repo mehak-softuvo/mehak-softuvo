@@ -1,0 +1,44 @@
+{
+  "posts":[
+     {
+        "id":1,
+        "identifier":"mehak@yopmail.com",
+        "role":"user",
+        "lastseen":"05-05-2020(06:09)"
+     },
+     {
+        "id":1,
+        "identifier":"anjali@yopmail.com",
+        "role":"user",
+        "lastseen":"05-05-2020(06:09)"
+     },
+     {
+        "id":1,
+        "identifier":"jay@yopmail.com",
+        "role":"Admin",
+        "lastseen":"05-05-2020(06:09)"
+     },
+     {
+        "id":1,
+        "identifier":"stephan@yopmail.com",
+        "role":"user",
+        "lastseen":"05-05-2020(06:09)"
+     },
+     {
+        "id":1,
+        "identifier":"carole@yopmail.com",
+        "role":"user",
+        "lastseen":"05-05-2020(06:09)"
+     }
+  ],
+  "comments":[
+     {
+        "id":1,
+        "body":"some comment",
+        "postId":1
+     }
+  ],
+  "profile":{
+     "name":"typicode"
+  }
+}
